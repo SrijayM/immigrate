@@ -60,6 +60,8 @@
 							<groupId>org.projectlombok</groupId>
 							<artifactId>lombok</artifactId>
 						</exclude>
+						<source>17</source>
+						<target>17</target>
 					</excludes>
 				</configuration>
 			</plugin>
